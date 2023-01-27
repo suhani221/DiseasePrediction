@@ -16,6 +16,6 @@ streamlit run App.py
 
 ## Preview 
 <p align="center">
-  <img width="345" height="290" src="https://github.com/github/DiseasePrediction/blob/assets/cat.png 
+  <img width="345" height="290" src="https://github.com/suhani221/DiseasePrediction/blob/main/assets/diabetes.png
 ">
 </p>
