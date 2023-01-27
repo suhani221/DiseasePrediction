@@ -16,6 +16,12 @@ streamlit run App.py
 
 ## Preview 
 <p align="center">
-  <img width="345" height="290" src="https://github.com/suhani221/DiseasePrediction/blob/main/assets/diabetes.png
-">
+  <img width="1440" alt="parkinsons" src="https://user-images.githubusercontent.com/98315116/215020013-3f8be707-d7e5-48e1-aceb-9cc4b913cc9c.png">
+  <img width="1440" alt="diabetes" src="https://user-images.githubusercontent.com/98315116/215020015-e7227112-7247-4571-8258-887b520d4d83.png">
+  <img width="1440" alt="heart" src="https://user-images.githubusercontent.com/98315116/215020020-6f0583d4-db88-4630-a0b0-59bcc47d0c1a.png">
 </p>
+
+
+
+
+
